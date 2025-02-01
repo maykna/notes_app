@@ -24,5 +24,6 @@ You can watch the demo of the project here:
 
 ![Screenshot 1](Screenshot%202024-10-07%20230931.png)
 ![Screenshot 2](Screenshot%202024-10-07%20231056.png)
-![Screenshot 3](Screenshot%202024-10-07%20231330.png)
-![Screenshot 4](Screenshot%202024-10-07%20231826.png)
+![Screenshot 3](Screenshot_20250201_124054.jpg)
+![Screenshot 4](Screenshot%202024-10-07%20231330.png)
+![Screenshot 5](Screenshot%202024-10-07%20231826.png)
